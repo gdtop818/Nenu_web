@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+ul{
+    text-decoration:none;
+    list-style: none;
+    float: left;
+    padding: 10px;
+}
+li{
+    text-decoration: none;
+    float: left;
+    padding: 5px;
+}
+
+.tableDe{
+    float: left;
+    padding: 20px;
+    border: 10px;
+}
